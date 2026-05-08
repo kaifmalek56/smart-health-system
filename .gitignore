@@ -1,0 +1,9 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore any local config overrides
+config/local.php
+
+# Ignore uploaded files (prescriptions etc)
+uploads/
